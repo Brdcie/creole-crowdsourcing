@@ -1,3 +1,5 @@
+# creole-crowdsourcing
+Interface de crowdsourcing pour la validation des traductions français-créole guadeloupéen
 # Crowdsourcing de Traduction Créole Guadeloupéen
 
 ## 🌴 Présentation
